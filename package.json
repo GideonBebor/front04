@@ -1,0 +1,18 @@
+{
+  "name": "fronpage",
+  "version": "1.0.0",
+  "description": "School Portal",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "FRONT",
+    "DEV"
+  ],
+  "author": "Gideon",
+  "license": "ISC",
+  "dependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
